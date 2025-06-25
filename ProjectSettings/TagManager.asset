@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Bullet
+  - Target
+  - GG
+  - Environment
+  - EndCamera
+  - EndText
+  - EndEnvironment
   layers:
   - Default
   - TransparentFX
@@ -17,7 +24,7 @@ TagManager:
   - Ball1
   - Ball2
   - Ball3
-  - 
+  - EndGame
   - 
   - 
   - 
