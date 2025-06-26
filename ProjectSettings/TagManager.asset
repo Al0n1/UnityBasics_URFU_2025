@@ -11,6 +11,9 @@ TagManager:
   - EndCamera
   - EndText
   - EndEnvironment
+  - RedCube
+  - BlueCube
+  - GreenCube
   layers:
   - Default
   - TransparentFX
